@@ -2,7 +2,7 @@
 
 💼 Data Science Portfolio
 
-Welcome to my portfolio. This project involves comparing two photovoltaic plants to detect inefficiencies and extract meaningful insights. The process includes thorough data cleaning, exploratory data analysis (EDA), and subsequent interpretation of the results.
+Welcome to my portfolio. This project involves comparing two photovoltaic plants to detect inefficiencies and extract meaningful insights. The process includes thorough data cleaning, exploratory data analysis (EDA), the creation of visualizations, and subsequent interpretation of the results.
 
 Here are some key projects:
 
