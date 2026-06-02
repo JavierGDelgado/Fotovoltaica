@@ -1,18 +1,26 @@
-# Fotovoltaica
+# Detección de ineficiencias en plantas fotovoltaicas
 
-💼 Data Science Portfolio
+## Objetivo
 
-Welcome to my portfolio. This project involves comparing two photovoltaic plants to detect inefficiencies and extract meaningful insights. The process includes thorough data cleaning, exploratory data analysis (EDA), the creation of visualizations, and subsequent interpretation of the results.
+Análisis de datos operativos de dos plantas fotovoltaicas para detectar ineficiencias, monitorizar la producción energética y comparar el rendimiento de los inversores.
 
-Here are some key projects:
+## Tecnologías
 
-📑 Data Preparation: Data cleaning and transformation using Python (Pandas, NumPy).
+Python, Pandas, NumPy y Power BI.
 
-🗄️ Analytical Datamart: Designed and built a datamart for business analysis
+## Dashboard Power BI
 
-Skills: Python, Numpy, Pandas, Scikit-Learn, SQL, Seaborn and Tableau.
+![Dashboard Power BI](dashboard_powerBI.png)
 
-💼 LinkedIn | 📫 Email
+## Principales indicadores
 
+- Eficiencia media
+- Irradiación media
+- Energía AC total
+- Energía DC total
+- Producción por inversor
+- Evolución temporal de la producción
 
-Thank you for visiting my portfolio!
+## Resultados
+
+El análisis permite identificar diferencias de rendimiento entre inversores y monitorizar posibles desviaciones operativas en la producción energética.
