@@ -24,3 +24,11 @@ Python, Pandas, NumPy y Power BI.
 ## Resultados
 
 El análisis permite identificar diferencias de rendimiento entre inversores y monitorizar posibles desviaciones operativas en la producción energética.
+
+## Principales hallazgos
+
+- Ambas plantas reciben niveles de irradiación similares.
+- La planta 1 presenta pérdidas importantes en la conversión DC → AC.
+- La planta 2 muestra problemas en la generación DC asociados a determinados módulos o conexiones.
+- Se identificaron diferencias significativas de rendimiento entre inversores.
+- Ambas plantas operan por debajo de su potencial teórico de generación.
